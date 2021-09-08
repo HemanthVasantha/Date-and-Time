@@ -1,0 +1,17 @@
+#id
+{
+    
+    color: black;
+    text-align: center;
+    font-size: 100px;
+    margin: auto;
+    background-color:darkturquoise;
+    box-shadow: 0 0 10px black;
+    margin-top: 100px;
+    width: 400px;
+
+}
+#clock
+{
+    font-size: 30px;
+}
