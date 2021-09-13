@@ -12,7 +12,7 @@ function showTime()
             day="Sunday";
             break;
         case 1:
-            day="Monday";
+            day="Monday";  
             break;
         case 2:
             day="Tuesday";
